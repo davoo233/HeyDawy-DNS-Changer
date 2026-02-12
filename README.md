@@ -27,6 +27,9 @@ Extract and run exe
 
 You can add exe file to the desktop
 
-Disclaimer: Download HeyDawy DNS Changer OFFICIALLY here , only here .
+Disclaimer: Download HeyDawy DNS Changer OFFICIALLY ,only available on itch and github .
 
+Itch https://davoo233.itch.io/heydawy-dns-changer
+
+github https://github.com/davoo233/HeyDawy-DNS-Changer/releases/tag/HeyDawyDNSChanger
 
