@@ -4,17 +4,17 @@ HeyDawy DNS Changer OFFICIALLY
  
 A  professional DNS CHANGER for Gamers,
 
- with the best DNS and a real-time ping display, 
+/ with the best DNS and a real-time ping display, 
  
- with internet upload and download speed testing,
+/ with internet upload and download speed testing,
  
-with artificial intelligence to find new DNS,
+/ with artificial intelligence to find new DNS,
 
-with a section for adding custom DNS, 
+/ with a section for adding custom DNS, 
 
-full support for v2ray and other types of configurations,
+/ full support for v2ray and other types of configurations,
 
-with vpn and cloudflare warp.
+/ with vpn and cloudflare warp.
 
 If there is a bug, be sure to comment it, I will definitely fix it.
 
