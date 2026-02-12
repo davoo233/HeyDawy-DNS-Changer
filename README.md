@@ -2,7 +2,7 @@ HeyDawy DNS Changer OFFICIALLY
 
  what is HeyDawy DNS Changer ? 👌
  
-A  professional DNS CHANGER for Gamers,                                                                                  download  ➡️ ➡️ ➡️ ➡️  ➡️ ➡️   ➡️ ➡️ ➡️ ➡️  ➡️ ➡️   ➡️ ➡️ ➡️ ➡️ ➡️ ➡️             
+A  professional DNS CHANGER for Gamers,                                                                                  download  ➡️ ➡️ ➡️ ➡️  ➡️ ➡️   ➡️ ➡️ ➡️ ➡️  ➡️ ➡️   ➡️ ➡️ ➡️ ➡️ ➡️                 
 
 / with the best DNS and a real-time ping display, 
  
