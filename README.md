@@ -28,6 +28,6 @@ Extract and run exe
 You can add exe file to the desktop
 
 Disclaimer: Download HeyDawy DNS Changer OFFICIALLY here , only here .
-
+https://github.com/davoo233/HeyDawy-DNS-Changer/releases/tag/HeyDawyDNSChanger
 ✨👌
-Full Changelog: https://github.com/davoo233/HeyDawy-DNS-Changer/commits/HeyDawyDNSChanger
+
