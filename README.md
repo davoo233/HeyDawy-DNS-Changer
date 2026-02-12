@@ -1,6 +1,5 @@
-✨HeyDawy DNS Changer _ _ OFFICIALLY ONLY AVAILABLE FROM GITHUB
+HeyDawy DNS Changer OFFICIALLY
 
-HeyDawy DNS Changer​ ALL IN ONE 
  what is HeyDawy DNS Changer ? 👌
  
 A  professional DNS CHANGER for Gamers,
