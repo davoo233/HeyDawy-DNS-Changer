@@ -1,4 +1,4 @@
-HeyDawy DNS Changer OFFICIALLY
+HeyDawy DNS Changer OFFICIALLY for Windows 11/10
 
  what is HeyDawy DNS Changer ? 👌
  
