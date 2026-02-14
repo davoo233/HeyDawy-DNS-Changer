@@ -1,4 +1,4 @@
-HeyDawy DNS Changer OFFICIALLY for Windows 11/10
+HeyDawy DNS Changer OFFICIALLY only available for Windows 11/10 no android version.
 
  what is HeyDawy DNS Changer ? 👌
  
